@@ -24,5 +24,5 @@ $disqus = "https://animocity.disqus.com"; // Disqus
 $api = "https://anikatsu.shashankktiwari.repl.co"; // API
 
 
-$banner = $websiteUrl . "/files/images/banner.webp";  //Banner
+$banner = $websiteUrl . "/files/images/banner.png";  //Banner
 ?>
